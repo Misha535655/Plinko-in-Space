@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dd625942ea0f2c458a1d01f0658a7a0, type: 3}
+  m_Name: Planet2
+  m_EditorClassIdentifier: 
+  pathPrefab: {fileID: 5840344147578563012, guid: 122affcd97da04b44bbe42dee34d7d86, type: 3}
+  planet: {fileID: 6633857316355242610, guid: c099aa4bae8a74d4191facca600e0948, type: 3}
+  movieSpeedPlanet: 3
